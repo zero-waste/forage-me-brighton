@@ -1,6 +1,6 @@
 # Sisymbrium officinale
 
-https://en.wikipedia.org/wiki/Sisymbrium_officinale
+See [Sisymbrium officinale](https://en.wikipedia.org/wiki/Sisymbrium_officinale).
 
 ![](IMG_2654.jpg)
 
@@ -8,19 +8,19 @@ https://en.wikipedia.org/wiki/Sisymbrium_officinale
 
 # Parietaria judaica
 
-https://en.wikipedia.org/wiki/Parietaria_judaica
+See [Parietaria judaica](https://en.wikipedia.org/wiki/Parietaria_judaica).
 
 ![](IMG_2651.jpg)
 
 # Erigeron canadensis
 
-https://en.wikipedia.org/wiki/Erigeron_canadensis
+See [Erigeron canadensis](https://en.wikipedia.org/wiki/Erigeron_canadensis).
 
 ![](IMG_2650.jpg)
 
 # Mentha arvensis
 
-https://en.wikipedia.org/wiki/Mentha_arvensis
+See [Mentha arvensis](https://en.wikipedia.org/wiki/Mentha_arvensis).
 
 ![](IMG_2599.jpg)
 
@@ -31,12 +31,18 @@ See [Blackstonia perfoliata](https://en.wikipedia.org/wiki/Blackstonia_perfoliat
 ![](IMG_2598.jpg)
 
 # Bramble
+
 ![](IMG_2593.jpg)
 
 # Wild | Common | Marsh mallow
+
+See [Malva_sylvestris](https://en.wikipedia.org/wiki/Malva_sylvestris).
+
 ![](IMG_2591.jpg)
 
 # Bristly ox tongue
+
+See [Helminthotheca echioides](https://en.wikipedia.org/wiki/Helminthotheca_echioides).
 
 ![](IMG_2588.jpg)
 
@@ -53,4 +59,3 @@ See [Blackstonia perfoliata](https://en.wikipedia.org/wiki/Blackstonia_perfoliat
 https://en.wikipedia.org/wiki/Sambucus
 
 ![](IMG_2584.jpg)
-
