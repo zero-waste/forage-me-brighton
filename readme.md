@@ -18,25 +18,31 @@ https://en.wikipedia.org/wiki/Erigeron_canadensis
 
 ![](IMG_2650.jpg)
 
-# IMG_2599
+# Mentha arvensis
+
+https://en.wikipedia.org/wiki/Mentha_arvensis
+
 ![](IMG_2599.jpg)
 
-# IMG_2598
+# Yellow-wort (Blackstonia perfoliata)
 ![](IMG_2598.jpg)
 
-# IMG_2593
+# Bramble
 ![](IMG_2593.jpg)
 
-# IMG_2591
+# Wild | Common | Marsh mallow
 ![](IMG_2591.jpg)
 
-# IMG_2588
+# Bristly ox tongue
+
 ![](IMG_2588.jpg)
 
-# IMG_2586
+# Black horehound (Ballota nigra subsp. meridionalis)?
+
 ![](IMG_2586.jpg)
 
-# IMG_2585
+# Alder buckthorn | damson | bullace | sloe (too early)
+
 ![](IMG_2585.jpg)
 
 # IMG_2584
