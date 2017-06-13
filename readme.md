@@ -59,3 +59,13 @@ See [Helminthotheca echioides](https://en.wikipedia.org/wiki/Helminthotheca_echi
 https://en.wikipedia.org/wiki/Sambucus
 
 ![](IMG_2584.jpg)
+
+# Alkanna tinctoria
+
+"In alkali environments the alkanet dye has a blue color, with the color
+changing again to crimson on addition of an acid.[5] The colour is red at pH
+6.1, purple at 8.8 and blue at pH 10."
+
+See [Alkanna tinctoria](https://en.wikipedia.org/wiki/Alkanna_tinctoria).
+
+![](IMG_2659.JPG)
