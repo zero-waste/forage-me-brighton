@@ -71,3 +71,21 @@ changing again to crimson on addition of an acid. The colour is red at pH
 - [Pentaglottis sempervirens](https://en.wikipedia.org/wiki/Pentaglottis_sempervirens)
 
 ![](IMG_2659.JPG)
+
+# Hogweed
+
+- [Heracleum sphondylium](https://en.wikipedia.org/wiki/Heracleum_sphondylium)
+
+![](IMG_2701.JPG)
+
+# Great willowherb
+
+- [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum)
+
+![](IMG_2715.JPG)
+
+# Rumex sp.
+
+- [Rumex](https://en.wikipedia.org/wiki/Rumex)
+
+![](IMG_2716.JPG)
