@@ -92,3 +92,7 @@ There are so many species of [Rumex](https://en.wikipedia.org/wiki/Rumex). I
 don't think I've found an edible one yet.
 
 ![](IMG_2716.JPG)
+
+# Things I'd like to find
+
+- Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
