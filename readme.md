@@ -1,3 +1,9 @@
+# Hogweed
+
+- [Heracleum sphondylium](https://en.wikipedia.org/wiki/Heracleum_sphondylium)
+
+![](IMG_2701.JPG)
+
 # Sisymbrium officinale
 
 - [Sisymbrium officinale](https://en.wikipedia.org/wiki/Sisymbrium_officinale)
@@ -71,12 +77,6 @@ changing again to crimson on addition of an acid. The colour is red at pH
 - [Pentaglottis sempervirens](https://en.wikipedia.org/wiki/Pentaglottis_sempervirens)
 
 ![](IMG_2659.JPG)
-
-# Hogweed
-
-- [Heracleum sphondylium](https://en.wikipedia.org/wiki/Heracleum_sphondylium)
-
-![](IMG_2701.JPG)
 
 # Great willowherb
 
