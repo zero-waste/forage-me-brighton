@@ -65,7 +65,7 @@ See [Helminthotheca echioides](https://en.wikipedia.org/wiki/Helminthotheca_echi
 
 # Elderflower
 
-https://en.wikipedia.org/wiki/Sambucus
+See [Sambucus](https://en.wikipedia.org/wiki/Sambucus).
 
 ![](IMG_2584.jpg)
 
@@ -82,12 +82,13 @@ changing again to crimson on addition of an acid. The colour is red at pH
 
 # Great willowherb
 
-- [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum)
+See [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum).
 
 ![](IMG_2715.JPG)
 
 # Rumex sp.
 
-- [Rumex](https://en.wikipedia.org/wiki/Rumex)
+There are so many species of [Rumex](https://en.wikipedia.org/wiki/Rumex). I
+don't think I've found an edible one yet.
 
 ![](IMG_2716.JPG)
