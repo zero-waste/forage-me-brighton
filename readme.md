@@ -102,6 +102,6 @@ Curled dock (Rumex crispus)? Rumex obtusifolius?
 
 # Sea kale
 
-See ![Crambe maritima](https://en.wikipedia.org/wiki/Crambe_maritima)
+See [Crambe maritima](https://en.wikipedia.org/wiki/Crambe_maritima)
 
 ![](IMG_2803.JPG)
