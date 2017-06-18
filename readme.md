@@ -88,11 +88,18 @@ See [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum).
 
 # Rumex sp.
 
-There are so many species of [Rumex](https://en.wikipedia.org/wiki/Rumex). I
-don't think I've found an edible one yet.
+There are so many species of [Rumex](https://en.wikipedia.org/wiki/Rumex).
 
 ![](IMG_2716.JPG)
+
+Curled dock (Rumex crispus)? Rumex obtusifolius?
+
+![](IMG_2746.JPG)
 
 # Things I'd like to find
 
 - Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
+
+# Sea cabbage?
+
+![](IMG_2803.JPG)
