@@ -100,6 +100,8 @@ Curled dock (Rumex crispus)? Rumex obtusifolius?
 
 - Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
 
-# Sea cabbage?
+# Sea kale
+
+See ![Crambe maritima](https://en.wikipedia.org/wiki/Crambe_maritima)
 
 ![](IMG_2803.JPG)
