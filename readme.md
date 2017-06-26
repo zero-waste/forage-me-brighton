@@ -5,6 +5,7 @@ This was actually found in Crawley, will replace with a Brighton specimen.
 - [Heracleum sphondylium](https://en.wikipedia.org/wiki/Heracleum_sphondylium)
 
 ![](IMG_2701.JPG)
+![](IMG_2820.jpg)
 
 # Sisymbrium officinale
 
@@ -106,3 +107,10 @@ See [Crambe maritima](https://en.wikipedia.org/wiki/Crambe_maritima) and
 [Eat The Weeds](http://www.eattheweeds.com/sea-kale/).
 
 ![](IMG_2803.JPG)
+
+# Meadowsweet?
+
+See
+[Filipendula ulmaria](https://en.wikipedia.org/wiki/Filipendula_ulmaria).
+
+![](IMG_2819.jpg)
