@@ -1,6 +1,8 @@
-- [Meadowsweet](meadowsweat.md)
+- [Meadowsweet](meadowsweet.md)
 - [Sea Kale](seakale.md)
 - [Hogweed](hogweed.md)
+- [Mint](mint.md)
+- [Yellow wort](yellowwort.md)
 
 # Sisymbrium officinale
 
@@ -22,16 +24,6 @@ See [Parietaria judaica](https://en.wikipedia.org/wiki/Parietaria_judaica).
 See [Erigeron canadensis](https://en.wikipedia.org/wiki/Erigeron_canadensis).
 
 ![](IMG_2650.jpg)
-
-# Mentha arvensis
-
-See [Mentha arvensis](https://en.wikipedia.org/wiki/Mentha_arvensis).
-
-![](IMG_2599.jpg)
-
-# Yellow-wort (Blackstonia perfoliata)
-
-See [Blackstonia perfoliata](https://en.wikipedia.org/wiki/Blackstonia_perfoliata).
 
 ![](IMG_2598.jpg)
 
