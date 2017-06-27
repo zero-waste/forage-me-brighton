@@ -1,11 +1,6 @@
-# Hogweed
-
-This was actually found in Crawley, will replace with a Brighton specimen.
-
-- [Heracleum sphondylium](https://en.wikipedia.org/wiki/Heracleum_sphondylium)
-
-![](IMG_2701.JPG)
-![](IMG_2820.jpg)
+- [Meadowsweet](meadowsweat.md)
+- [Sea Kale](seakale.md)
+- [Hogweed](hogweed.md)
 
 # Sisymbrium officinale
 
@@ -101,16 +96,3 @@ Curled dock (Rumex crispus)? Rumex obtusifolius?
 
 - Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
 
-# Sea kale
-
-See [Crambe maritima](https://en.wikipedia.org/wiki/Crambe_maritima) and
-[Eat The Weeds](http://www.eattheweeds.com/sea-kale/).
-
-![](IMG_2803.JPG)
-
-# Meadowsweet?
-
-See
-[Filipendula ulmaria](https://en.wikipedia.org/wiki/Filipendula_ulmaria).
-
-![](IMG_2819.jpg)
