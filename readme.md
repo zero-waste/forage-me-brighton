@@ -4,6 +4,7 @@
 - [Mint](mint.md)
 - [Yellow wort](yellowwort.md)
 - [Mustard](mustard.md)
+- [Willowherb](willowherb/readme.md)
 
 # Parietaria judaica
 
@@ -59,12 +60,6 @@ changing again to crimson on addition of an acid. The colour is red at pH
 - [Pentaglottis sempervirens](https://en.wikipedia.org/wiki/Pentaglottis_sempervirens)
 
 ![](IMG_2659.JPG)
-
-# Great willowherb
-
-See [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum).
-
-![](IMG_2715.JPG)
 
 # Rumex sp.
 
