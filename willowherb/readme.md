@@ -1,6 +1,7 @@
 # Great willowherb
 
-Need some photos of the flowers. 
+I thought it was sage at the time. Smelled pleasant but not of anything I could
+place. Need some photos of the flowers. 
 
 See [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum).
 
