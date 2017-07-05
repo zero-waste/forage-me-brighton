@@ -2,7 +2,7 @@
 - [Sea Kale](seakale.md)
 - [Hogweed](hogweed.md)
 - [Mint](mint.md)
-- [Yellow wort](yellowwort.md)
+- [Yellow wort](yellowwort/readme.md)
 - [Mustard](mustard.md)
 - [Willowherb](willowherb/readme.md)
 
@@ -17,8 +17,6 @@ See [Parietaria judaica](https://en.wikipedia.org/wiki/Parietaria_judaica).
 See [Erigeron canadensis](https://en.wikipedia.org/wiki/Erigeron_canadensis).
 
 ![](IMG_2650.jpg)
-
-![](IMG_2598.jpg)
 
 # Bramble
 
