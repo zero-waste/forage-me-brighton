@@ -1,8 +1,8 @@
 # Great willowherb
 
-See [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum).
+Need some photos of the flowers. 
 
-Is this great or common?
+See [Epilobium hirsutum](https://en.wikipedia.org/wiki/Epilobium_hirsutum).
 
 ![](IMG_2715.JPG)
 
