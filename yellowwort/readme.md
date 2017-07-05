@@ -1,4 +1,4 @@
-# Yellow-wort (Blackstonia perfoliata)
+# Yellow wort
 
 See [Blackstonia perfoliata](https://en.wikipedia.org/wiki/Blackstonia_perfoliata).
 
