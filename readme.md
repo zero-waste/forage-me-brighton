@@ -1,7 +1,7 @@
 - [Meadowsweet](meadowsweet.md)
 - [Sea Kale](seakale.md)
 - [Hogweed](hogweed.md)
-- [Mint](mint.md)
+- [Mint](mind/readme.md)
 - [Yellow wort](yellowwort/readme.md)
 - [Mustard](mustard.md)
 - [Willowherb](willowherb/readme.md)
