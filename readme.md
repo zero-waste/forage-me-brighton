@@ -8,6 +8,11 @@
 - [Sea veg](seaveg/readme.md)
 - [Mallow](mallow/readme.md)
 - [Bramble](bramble/readme.md)
+- [Elderflower](elderflower/readme.md)
+
+# Things I'd like to find
+
+- Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
 
 # Parietaria judaica
 
@@ -34,24 +39,3 @@ See [Helminthotheca echioides](https://en.wikipedia.org/wiki/Helminthotheca_echi
 # Alder buckthorn | damson | bullace | sloe (too early)
 
 ![](IMG_2585.jpg)
-
-# Elderflower
-
-See [Sambucus](https://en.wikipedia.org/wiki/Sambucus).
-
-![](IMG_2584.jpg)
-
-# Alkanet
-
-"In alkali environments the alkanet dye has a blue color, with the color
-changing again to crimson on addition of an acid. The colour is red at pH
-6.1, purple at 8.8 and blue at pH 10."
-
-- [Alkanna tinctoria](https://en.wikipedia.org/wiki/Alkanna_tinctoria)
-- [Pentaglottis sempervirens](https://en.wikipedia.org/wiki/Pentaglottis_sempervirens)
-
-![](IMG_2659.JPG)
-
-# Things I'd like to find
-
-- Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
