@@ -5,6 +5,8 @@
 - [Yellow wort](yellowwort/readme.md)
 - [Mustard](mustard.md)
 - [Willowherb](willowherb/readme.md)
+- [Sea veg](seaveg/readme.md)
+- [Dock](dock/readme.md)
 
 # Parietaria judaica
 
@@ -59,19 +61,6 @@ changing again to crimson on addition of an acid. The colour is red at pH
 
 ![](IMG_2659.JPG)
 
-# Rumex sp.
-
-There are so many species of [Rumex](https://en.wikipedia.org/wiki/Rumex).
-
-![](IMG_2716.JPG)
-
-- Curled dock (Rumex crispus)
-- Rumex obtusifolius
-- [Rumex acetosella](https://en.wikipedia.org/wiki/Rumex_acetosella)
-
-![](IMG_2746.JPG)
-
 # Things I'd like to find
 
 - Wood sorrel ([Oxalis](https://en.wikipedia.org/wiki/Oxalis))
-
