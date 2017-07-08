@@ -20,16 +20,6 @@ See [Erigeron canadensis](https://en.wikipedia.org/wiki/Erigeron_canadensis).
 
 ![](IMG_2650.jpg)
 
-# Bramble
-
-![](IMG_2593.jpg)
-
-# Wild | Common | Marsh mallow
-
-See [Malva_sylvestris](https://en.wikipedia.org/wiki/Malva_sylvestris).
-
-![](IMG_2591.jpg)
-
 # Bristly ox tongue
 
 See [Helminthotheca echioides](https://en.wikipedia.org/wiki/Helminthotheca_echioides).
