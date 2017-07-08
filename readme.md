@@ -6,7 +6,8 @@
 - [Mustard](mustard.md)
 - [Willowherb](willowherb/readme.md)
 - [Sea veg](seaveg/readme.md)
-- [Dock](dock/readme.md)
+- [Mallow](mallow/readme.md)
+- [Bramble](bramble/readme.md)
 
 # Parietaria judaica
 
