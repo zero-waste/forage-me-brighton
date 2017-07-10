@@ -13,5 +13,4 @@ There are so many species of [Rumex](https://en.wikipedia.org/wiki/Rumex).
 ## Littoral variety
 
 ![](IMG_3215.JPG)
-
 ![](IMG_3216.JPG)
