@@ -14,3 +14,4 @@
 - [Ox tongue](oxtongue/readme.md)
 - [Pellitory](pellitory/readme.md)
 - [Horseweed](horseweed/readme.md)
+- [Hogweed](hogweed/readme.md)
