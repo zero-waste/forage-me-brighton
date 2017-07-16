@@ -28,7 +28,6 @@
 ![](IMG_3299.jpg)
 ![](IMG_3300.jpg)
 ![](IMG_3301.jpg)
-![](IMG_3303.jpg)
 ![](IMG_3304.jpg)
 ![](IMG_3305.jpg)
 ![](IMG_3306.jpg)
