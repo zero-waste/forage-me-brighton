@@ -18,4 +18,5 @@
 - [Sea veg](seaveg/readme.md)
 - [To sort](tosort/readme.md)
 - [Willowherb](willowherb/readme.md)
+- [Yarro](yarrow/readme.md)
 - [Yellow wort](yellowwort/readme.md)
